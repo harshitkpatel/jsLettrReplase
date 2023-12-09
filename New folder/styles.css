@@ -1,0 +1,19 @@
+#letterTilesContainer {
+    display: flex !important;
+    flex-direction: row !important;
+}
+
+#letterTilesContainer > div {
+    height: 70px !important;
+    width: 70px !important;
+    border: 1px solid grey;
+    background-color: beige;
+    margin: 10px;
+} ;
+
+
+#output {
+    font-size: 20px;
+    height: 50px;
+    
+}
